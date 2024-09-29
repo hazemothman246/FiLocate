@@ -36,4 +36,4 @@ python3 FiLocate.py
 
 *I'm (Eng/Hazem Othman Mustafa ) would like to thank you for reading*
 
-![Filocate](https://github.com/hazemothman246/FiLocate/blob/main/image.png?raw=true "image.png")
+*![Filocate](https://github.com/hazemothman246/FiLocate/blob/main/image.png?raw=true "image.png")*
